@@ -11,11 +11,9 @@ The latest Android APK is available in the Releases section of this repository.
 
 🔽 **How to Download**
 
-Open the Releases tab.
-
-Download the latest file:
-
-app-release.apk
+- Open the Releases tab. 
+- Select **nlp** tag
+- Download the apk **app-release.apk**
 
 📦 **Installation Steps**
 
